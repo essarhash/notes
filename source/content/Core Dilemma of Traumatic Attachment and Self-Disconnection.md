@@ -1,12 +1,17 @@
-![[Pasted image 20250531133406.png]]
 https://www.threads.com/@cptsdtherapist/post/DKSoRv7vsRL
+
+
+![[Pasted image 20250531133406.png]]
+
 
 I want to explain briefly the core dilemma of attachment trauma and how it leads to self-disconnection.
 
 So the core dilemma of attachment trauma is that because 
-**children are so biologically driven to stay connected with their caregivers**, like that is a essential survival need, is to stay connected and bonded with caregivers, children have to do that and 
+**children are so biologically driven to stay connected with their caregivers**, 
+like that is a essential survival need, is to stay connected and bonded with caregivers, 
+children have to do that and 
 **have to find a way to maintain that connection even if those caregivers are not safe for them**, right?
-Even if they are abusive or emotionally neglectful or disconnected in a range of ways.
+...Even if they are abusive or emotionally neglectful or disconnected in a range of ways.
 
 So the core dilemma is —  
 - I am forced to rely on people that I can't actually be safe with 
@@ -30,11 +35,11 @@ Pure attachment happens when we are able to be fully connected with ourselves, r
 
 ###### **And in attachment trauma the core dilemma is that we don't have access to both** 
 and so when kids are put in a situation where they have to
-**hang on to connection by compromising and cutting off parts of themselves**, 
+###### **hang on to connection by compromising and cutting off parts of themselves**, 
 that is what they will do. 
+
 Because the drive for maintaining that connection and belonging is so strong. 
 And the result of that self-disconnection, that cut off from different parts of yourself and parts of your emotions, **leads to all kinds of secondary mental health problems.**
 
-So people come in with you know depression and anxiety and all these other things that they're struggling with but when we're looking at it through an attachment trauma lens and **we follow those threads down to the roots this is what we find inevitably with attachment trauma.**
-
-Oh you had to profoundly disconnect from and dissociate from parts of yourself in order to maintain more connection with caregivers and you are suffering the results of that necessary survival tactic.
+So people come in with you know depression and anxiety and all these other things that they're struggling with but when we're looking at it through an attachment trauma lens and **we follow those threads down to the roots this is what we find inevitably with attachment trauma—**
+>Oh you had to profoundly disconnect from and dissociate from parts of yourself in order to maintain more connection with caregivers and you are suffering the results of that necessary survival tactic.
