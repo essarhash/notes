@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Notes"
+              "title": "index"
             }
           }
         ],
@@ -186,7 +186,7 @@
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
     "Core Dilemma of traumatic Attachment.md",
-    "My Notes.md",
+    "index.md",
     "folder",
     "untitled folder",
     "category-folder/Some note.md",
