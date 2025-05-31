@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Dilemma of Traumatic Attachment and Self-Disconnection.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Dilemma of Traumatic Attachment and Self-Disconnection"
+              "title": "index"
             }
           }
         ],
@@ -183,12 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Core Dilemma of Traumatic Attachment and Self-Disconnection.md",
     "index.md",
     "Pasted image 20250531133406.png",
     "untitled folder",
-    "Core Dilemma of Traumatic Attachment and Self-Disconnection.md",
     "folder",
     "category-folder/Some note.md",
     "category-folder/index.md",
