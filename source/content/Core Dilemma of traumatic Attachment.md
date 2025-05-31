@@ -1,3 +1,4 @@
+![[Pasted image 20250531133406.png]]
 https://www.threads.com/@cptsdtherapist/post/DKSoRv7vsRL
 
 I want to explain briefly the core dilemma of attachment trauma and how it leads to self-disconnection.
