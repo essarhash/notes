@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "notes/AI and Communicating across NeuroTypes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "AI and Communicating across NeuroTypes"
             }
           }
         ],
@@ -183,15 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "index.md",
+    "notes/index.md",
+    "notes/AI and Communicating across NeuroTypes.md",
+    "notes",
     "Pasted image 20250531133406.png",
     "Core Dilemma of Traumatic Attachment and Self-Disconnection.md",
-    "index.md",
     "untitled folder",
-    "folder",
-    "category-folder/Some note.md",
-    "category-folder/index.md",
-    "category-folder"
+    "folder"
   ]
 }
