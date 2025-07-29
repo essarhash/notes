@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AI and Communicating across NeuroTypes.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI and Communicating across NeuroTypes"
+              "title": "index"
             }
           }
         ],
@@ -185,6 +185,10 @@
   },
   "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "AI and Communicating across NeuroTypes.md",
+    "category-folder/index.md",
+    "category-folder/AI and Communicating across NeuroTypes.md",
+    "category-folder",
     "index.md",
     "notes/index.md",
     "notes/AI and Communicating across NeuroTypes.md",
