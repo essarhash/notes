@@ -56,7 +56,9 @@ The classic example is the farmer and the mechanic.
 
 This tiny economy has $50 total.
 
-The farmer trades $50 to the mechanic for track to repair, and the mechanic trades $40 for corn from the farmer, and then buys a barn cat for $10 from the farmer.
+The farmer trades $50 to the mechanic for track to repair, 
+and the mechanic trades $40 for corn from the farmer, 
+and then buys a barn cat for $10 from the farmer.
 
 And in this cycle, $100 has changed hands, so the velocity of money is measured as two.
 
@@ -92,7 +94,8 @@ By the 1920s, you might be seen as a fool for not being involved in stock tradin
 
 In fact, you might be seen as a fool for not borrowing money to buy stocks.
 
-Many middle class investors were borrowing with a 1-3 ratio, meaning that they would borrow $300 for every $100 they invested.
+Many middle class investors were borrowing with a 1-3 ratio, 
+meaning that they would borrow $300, for every $100 they invested.
 
 This sounds absolutely insane, but it didn't seem as risky due to the introduction of futures.
 
@@ -378,7 +381,7 @@ I need to remind you of the utter absurdity of just having a billion dollars.
 
 Not only is it impossible to spend on even the most lavish things that you would desire, but it's also very much not like having a garage full of cash.
 
-For example, if Elon Musk, with his value of $450 billion at the time of me recording this, if he negotiated a deal to buy South Africa with its total gross domestic product valued at $381 billion, he wouldn't be able to afford it due to the value of his holdings dropping significantly as he liquidated the equity.
+For example, if Elon Musk, with his value of $450 billion, at the time of me recording this, if he negotiated a deal to buy South Africa with its total gross domestic product valued at $381 billion, he wouldn't be able to afford it due to the value of his holdings dropping significantly as he liquidated the equity.
 
 If 13% of Tesla's shares immediately went for public sale, it would create an enormous surplus and the company's value would crash.
 
@@ -654,7 +657,7 @@ Our debt to GDP ratio once again skyrocketed after the 2008 crisis and it just k
 
 And right now we are at 123% higher than it has ever been in the history of our economy.
 
-Our national debt as of February 2025 is $36.5 trillion and our total debt is $102 trillion.
+Our national debt as of February 2025 is $36.5 trillion, and our total debt is $102 trillion.
 
 I would say that we're well past the point of no return, but I don't even know what that is because this is so unprecedented.
 
@@ -771,5 +774,3 @@ Thank you for watching.
 Keep creating.
 
 Bye.
-
-[BLANK_AUDIO]
